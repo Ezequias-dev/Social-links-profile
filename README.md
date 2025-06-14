@@ -24,5 +24,5 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Ezequias-dev](https://ezequias-dev.github.io/Social-links-profile/)
 - Frontend Mentor - [@Ezequias](https://www.frontendmentor.io/profile/Ezequias-dev)
